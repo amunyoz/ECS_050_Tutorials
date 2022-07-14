@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ECS_UnitSelection/Scenes/UnitSelection-Demo.unity
+    guid: 2350178366503cc479c2528d40f7d8d6
+  - enabled: 1
+    path: Assets/Scenes/test idf materiales.unity
+    guid: c64405e9f73d2f24696f29439327caf3
   m_configObjects: {}
